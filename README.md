@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rb1960
-- 👀 I’m interested in Real Tim Programming, Robotics, Software design techniques
+- 👀 I’m interested in Real Time Programming, Robotics, Software design techniques
 - 🌱 I’m currently learning Python and the Refactoring Catalouge
 - 💞️ I’m looking to collaborate on code refactoring
 - 📫 How to reach me github.rb1960@gmail.com
